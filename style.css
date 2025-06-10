@@ -1,0 +1,25 @@
+body {
+  background: #121212;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+}
+
+.slot {
+  display: inline-block;
+  font-size: 50px;
+  margin: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  margin-top: 20px;
+  cursor: pointer;
+}
