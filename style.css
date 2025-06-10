@@ -1,0 +1,36 @@
+body {
+  background: linear-gradient(to bottom, #ffcc70, #ff914d);
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  background: #2e1a1a;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px #000;
+}
+
+.slot {
+  display: inline-block;
+  font-size: 60px;
+  margin: 10px;
+}
+
+button {
+  padding: 15px 30px;
+  font-size: 20px;
+  margin-top: 20px;
+  background-color: #ffcc00;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e6b800;
+}
